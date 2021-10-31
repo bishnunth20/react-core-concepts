@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+.person {
+  background-color: skyblue;
+  border: 3px solid lightsalmon;
+  border-radius: 20px;
+  margin: 20px;
+}
